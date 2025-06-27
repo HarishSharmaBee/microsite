@@ -1,0 +1,174 @@
+/* Add your custom styles here */
+
+.internal_hero #hero_overlay {
+
+    background-position: 0 0;
+
+    background-repeat: repeat;
+
+    background-attachment: fixed;
+
+    background-size: 2px 2px;
+
+    background-image: -moz-linear-gradient(135deg, rgba(0, 0, 0, 0.2) 46%, rgba(0, 0, 0, 1) 49%, rgba(0, 0, 0, .4) 51%, rgba(0, 0, 0, 0.2) 55%);
+
+    background-image: -webkit-linear-gradient(135deg, rgba(0, 0, 0, 0.2) 46%, rgba(0, 0, 0, 1) 49%, rgba(0, 0, 0, .4) 51%, rgba(0, 0, 0, 0.2) 55%);
+
+    background-image: linear-gradient(-45deg, rgba(0, 0, 0, 0.2) 46%, rgba(0, 0, 0, 1) 49%, rgba(0, 0, 0, 1) 51%, rgba(0, 0, 0, 0.2) 55%);
+
+}
+
+.navbar-nav, .navbar-nav > .nav-item {
+    float: right;
+}
+
+
+/* Add Styling for Subfooter Map to make responsive*/
+.container-iframe-contact {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    padding-top: 56.25%;
+    margin-bottom: 40px;
+}
+
+.responsive-iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.navbar-brand img {
+    max-width: 270px;
+}
+
+.not_top div#header .navbar-brand img {
+    max-width: 210px;
+}
+
+.footer_logo {
+    margin-top: 20px;
+    max-width: 200px;
+}
+
+#hero .form_subtitle.text-center {
+    color: #fff;
+}
+#sub_footer .form_subtitle.text-center {
+    color: #fff;
+}
+
+.btn.btn-success {
+    color: rgba(255,255,255,0.9) !important;
+}
+
+.btn.btn-success:active{
+    background-color: #005585 !important;
+}
+
+.btn.btn-success:focus {
+    box-shadow: 0 0 0 0.2rem rgb(255 255 255) !important;
+    border-color: #ffffff !important;
+}
+
+/* div#footer div#footer_left .row .col-12.col-sm p {
+    margin-bottom: 2px;
+} */
+
+div#footer {
+    color: #000;
+    background-color: #fff;
+}
+
+#footer div#footer_left a, #footer div#footer_right a{
+    color: #000;
+}
+
+.trust_logos img{
+    opacity: .8;
+}
+.cta_text .cta_top_text {
+    text-transform: none;
+}
+
+#hero_left .hero_text{
+    color:rgba(255,255,255,0.9)
+}
+
+#testimonials_container .testimonial_carousel .slick-dots li.slick-active button{
+    background-color:rgba(0,0,0,0.9);
+}
+
+.trust_logos .col-auto
+	{
+	-webkit-box-flex: 0;
+	-ms-flex: 0 0 auto;
+	flex: auto;
+	width: -webkit-fill-available;
+	max-width: none;
+
+	}
+.trust_logos .row
+{
+flex-wrap:inherit;
+}
+
+#footer p.hourstitle, p.hourstitle
+{
+    margin-bottom: 0px;
+    font-size: 16px;
+}
+span.time
+{
+    display: inline-block;
+}
+p.hourssection
+{
+    margin-bottom: 2px;
+    font-size: 15px;
+}
+.location-title
+{
+    font-size: 18px;
+}
+
+
+/* Responsive CSS */
+#mobile_bar.container-fluid {
+    border-color: #ffffff;
+}
+div#first_mobile_buttom {
+    border-color: #fff;
+}
+#mobile_bar .mobile_bar_button a {
+    color: #fff;
+}
+
+.feature_lower_top_text.testimonial_lower_top_text, 
+.feature_lower_top_text.gallery_lower_top_text,
+.feature_lower_top_text.trust_lower_top_text p 
+{
+ color:rgba(0,0,0,0.9);
+}
+
+@media (max-width: 991.98px){
+    #sub_footer .trust_logos img {
+        max-height: 60px;
+    }
+} 
+
+@media (max-width: 575.98px){
+    #sub_footer .trust_logos img {
+        max-height: 42px;
+    }
+} 
+
+@media (max-width: 767.98px){
+    .btn-success {
+        width: 100%;
+    }
+}    
