@@ -8,7 +8,7 @@ header("Content-Type: application/json; charset=UTF-8");
 
 
 
-$phone_number = '0000000000';
+$phone_number = '999-954-4444';
 
 	$company_info = (object) [
 
@@ -62,13 +62,13 @@ $phone_number = '0000000000';
 
   $ppc_info = (object) [ //Uncomment for phone number switching or city switching
 
-        /*"source_cookie_phone_numbers" => (object) [
+        "source_cookie_phone_numbers" => (object) [
 
-          "ppc" => "8888888888",
+          "ppc" => "999-954-4444",
 
-          "googleppc" => "9999999999"
+          "googleppc" => "999-954-4444"
 
-        ],*/
+        ],
 
         "city_cookie_text" => (object) [
 
