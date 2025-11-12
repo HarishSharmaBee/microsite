@@ -24,7 +24,7 @@ header("Content-Type: application/json; charset=UTF-8");
 
 	    "home" => (object) [
 
-          "seo_title" => "SEO Title | Company Name",
+          "seo_title" => "Home Page | DOORS",
 
           "seo_description" => "",
 
@@ -127,7 +127,7 @@ header("Content-Type: application/json; charset=UTF-8");
 
 		"product" => (object) [
 
-			"seo_title" => "Product Page | Company Name",
+			"seo_title" => "Products | Doors",
   
 			"seo_description" => "",
   
@@ -280,7 +280,7 @@ header("Content-Type: application/json; charset=UTF-8");
 		
 		"why-choose-us" => (object) [
 
-          "seo_title" => "Why Choose Us | Company Name",
+          "seo_title" => "Why Choose Us | Doors",
 
           "seo_description" => "",
 
@@ -432,7 +432,7 @@ header("Content-Type: application/json; charset=UTF-8");
 
 		"specials" => (object) [
 
-			"seo_title" => "Specials | Company Name",
+			"seo_title" => "Specials | Doors",
   
 			"seo_description" => "",
   
@@ -489,7 +489,7 @@ header("Content-Type: application/json; charset=UTF-8");
 	    
 		"financing" => (object) [
 
-			"seo_title" => "Financing | Company Name",
+			"seo_title" => "Financing | Doors",
   
 			"seo_description" => "",
   
@@ -547,7 +547,7 @@ header("Content-Type: application/json; charset=UTF-8");
 
 	    "contact-us" => (object) [
 
-          "seo_title" => "Contact Us | Company Name",
+          "seo_title" => "Contact Us | Doors",
 
           "seo_description" => "",
 
@@ -599,7 +599,7 @@ header("Content-Type: application/json; charset=UTF-8");
 
 	    "get-a-quote" => (object) [
 
-          "seo_title" => "Get a Quote | Company Name",
+          "seo_title" => "Get a Quote | Doors",
 
           "seo_description" => "",
 
@@ -649,7 +649,7 @@ header("Content-Type: application/json; charset=UTF-8");
 
 	    "thanks-quote" => (object) [
 
-          "seo_title" => "Thank You | Company Name",
+          "seo_title" => "Thank You | Doors",
 
           "seo_description" => "",
 
@@ -699,7 +699,7 @@ header("Content-Type: application/json; charset=UTF-8");
 
 	    "thanks-footer-quote" => (object) [
 
-          "seo_title" => "Thank You | Company Name",
+          "seo_title" => "Thank You | Doors",
 
           "seo_description" => "",
 
@@ -749,7 +749,7 @@ header("Content-Type: application/json; charset=UTF-8");
 
 	    "thanks-sticky-quote" => (object) [
 
-          "seo_title" => "Thank You | Company Name",
+          "seo_title" => "Thank You | Doors",
 
           "seo_description" => "",
 
@@ -799,7 +799,7 @@ header("Content-Type: application/json; charset=UTF-8");
 
 	    "thanks-financing" => (object) [
 
-          "seo_title" => "Thank You | Company Name",
+          "seo_title" => "Thank You | Doors",
 
           "seo_description" => "",
 
@@ -849,7 +849,7 @@ header("Content-Type: application/json; charset=UTF-8");
 
 	    "thanks-specials" => (object) [
 
-          "seo_title" => "Thank You | Company Name",
+          "seo_title" => "Thank You | Doors",
 
           "seo_description" => "",
 
@@ -899,7 +899,7 @@ header("Content-Type: application/json; charset=UTF-8");
 
 	    "thanks-contact" => (object) [
 
-          "seo_title" => "Thank You | Company Name",
+          "seo_title" => "Thank You | Doors",
 
           "seo_description" => "",
 
